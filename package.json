@@ -1,0 +1,25 @@
+{
+  "name": "dorama-seeker",
+  "version": "0.0.0",
+  "description": "JavaScript's functional programming helper library.",
+  "homepage": "",
+  "keywords": [
+    "dorama",
+    "everjapan"
+  ],
+  "author": "LyndonChin<liangfei@gmail.com>",
+  "contributors": [
+    "Lyndon"
+  ],
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "minimist": "^1.2.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/documentcloud/underscore.git"
+  },
+  "main": "seeker.js"
+}
