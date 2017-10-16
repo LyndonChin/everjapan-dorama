@@ -13,6 +13,8 @@
   ],
   "dependencies": {
     "cheerio": "1.0.0-rc.2",
+    "command-line-args": "^4.0.7",
+    "command-line-usage": "^4.0.1",
     "minimist": "^1.2.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
