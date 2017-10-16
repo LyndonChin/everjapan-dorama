@@ -16,7 +16,7 @@ const optionDefinitions = [
         alias: 'p', 
         type: String, 
         defaultValue: 'ed2k',
-        typeLabel: '[[underline]{e2dk}|[underline]{magnet}]'
+        typeLabel: '[[underline]{ed2k}|[underline]{magnet}]'
     },
     { 
         name: 'tab', 
@@ -46,7 +46,7 @@ const usage = [
     {
         header: 'Synopsis',
         content: [
-          '$ seeker [underline]{http://xiazai002.com/myMOm2} [bold]{--protocol} [underline]{e2dk} [bold]{--tab} [underline]{tab-g101-HR-HDTV} ...',
+          '$ seeker [underline]{http://xiazai002.com/myMOm2} [bold]{--protocol} [underline]{ed2k} [bold]{--tab} [underline]{tab-g101-HR-HDTV} ...',
           '$ seeker [bold]{--help}'
         ]
     }
